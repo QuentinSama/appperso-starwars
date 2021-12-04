@@ -1,0 +1,29 @@
+.searchBar{
+    padding: 2rem 1rem;
+}
+
+.searchBar input{
+    font-size: 1.2rem;
+    padding:.5rem 1rem;
+}
+
+.title{
+    margin: 30px;
+    text-align: center;
+    color: yellow;
+}
+
+.Grids{
+    display: flex;
+    margin: 80%;
+}
+
+.search_results{
+    width: 100%;
+}
+
+.search_result{
+    margin: 10px;
+}
+
+
